@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+'''
+@Author: Yehui
+@Date: 2025-04-22 16:01:18
+@LastEditTime: 2025-04-25 14:09:10
+@FilePath: /GuidedNet/main.py
+@Copyright (c) 2025 by , All Rights Reserved.
+'''
 import torch
 import numpy as np
 import os

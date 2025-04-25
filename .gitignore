@@ -1,0 +1,7 @@
+# 只忽略 checkpoints 目录下的 .pth 文件
+saved_models/*.pth
+
+__pycache__
+
+# 忽略 data 目录下的 .mat 文件
+dataset/CAVE/*.mat
